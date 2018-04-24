@@ -1,4 +1,5 @@
-#Couchbase query workbanch
+# This project is deprecated and not maintained anymore, the Query Workbanch is now [integrated into the web admin](https://developer.couchbase.com/documentation/server/4.5/introduction/whats-new.html), since version 4.5.0.
+# Couchbase query workbanch
 
 You can override the following environment parameters:
 
